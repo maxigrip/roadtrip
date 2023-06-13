@@ -3,6 +3,6 @@ function checkAnswer() {
   if (userInput === "Göteborg") {
     window.location.href = "correct.html";
   } else {
-    window.location.href = "8p.html";
+    window.location.href = "incorrect8.html";
   }
 }
