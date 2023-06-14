@@ -7,7 +7,7 @@ function checkAnswer() {
     window.location.href = "incorrect1.html";
   } else if (userInput === "incorrect2") {
     window.location.href = "incorrect2.html";
-  } else {
+  } else if{
     window.location.href = "incorrect3.html";
   }
 }
