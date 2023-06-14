@@ -3,9 +3,9 @@ function checkAnswer() {
 
   if (userInput === "Göteborg") {
     window.location.href = "correct.html";
-  } else (userInput === "incorrect1") {
+  } else if (userInput === "incorrect1") {
     window.location.href = "incorrect1.html";
-  } else (userInput === "incorrect2") {
+  } else if (userInput === "incorrect2") {
     window.location.href = "incorrect2.html";
   } else (userInput === "incorrect3") {
     window.location.href = "incorrect3.html";
