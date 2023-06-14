@@ -3,5 +3,5 @@ function checkAnswer() {
 
   if (userInput === "Göteborg") {
     window.location.href = "correct.html";
-  } else if {
+  } else {
     window.location.href = "incorrect1.html";
