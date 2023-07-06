@@ -5,3 +5,5 @@ function checkAnswer() {
     window.location.href = "correct.html";
   } else {
     window.location.href = "incorrect.html";
+  }
+}
