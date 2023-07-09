@@ -27,3 +27,12 @@ function checkNewNewAnswer() {
     window.location.href = "incorrect2.html";
   }
 }
+function checNewkNewNewAnswer() {
+  var userInput = document.getElementById("checkNewNewNewAnswer").value;
+
+  if (userInput === "Göteborg") {
+    window.location.href = "correct.html";
+  } else {
+    window.location.href = "incorrect3.html";
+  }
+}
