@@ -36,3 +36,12 @@ function checNewkNewNewAnswer() {
     window.location.href = "incorrect3.html";
   }
 }
+function checNewkNewNewNewAnswer() {
+  var userInput = document.getElementById("checkNewNewNewNewAnswer").value;
+
+  if (userInput === "Göteborg") {
+    window.location.href = "correct.html";
+  } else {
+    window.location.href = "final.html";
+  }
+}
