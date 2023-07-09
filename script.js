@@ -42,6 +42,6 @@ function checNewkNewNewNewAnswer() {
   if (userInput === "Göteborg") {
     window.location.href = "correct.html";
   } else {
-    window.location.href = "final.html";
+    window.location.href = "incorrect4.html";
   }
 }
