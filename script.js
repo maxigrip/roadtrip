@@ -27,7 +27,7 @@ function check2Answer() {
     window.location.href = "incorrect2.html";
   }
 }
-function chec3Answer() {
+function check3Answer() {
   var userInput = document.getElementById("check3Answer").value;
 
   if (userInput === "Göteborg") {
