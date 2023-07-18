@@ -36,7 +36,7 @@ function checNewkNewNewAnswer() {
     window.location.href = "incorrect3.html";
   }
 }
-function checNewkNewNewNewAnswer() {
+function checNewNewNewNewAnswer() {
   var userInput = document.getElementById("checkNewNewNewNewAnswer").value;
 
   if (userInput === "Göteborg") {
