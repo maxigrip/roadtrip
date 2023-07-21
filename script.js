@@ -18,8 +18,8 @@ function checkNewAnswer() {
   }
 }
 
-function check2Answer() {
-  var userInput = document.getElementById("check2Answer").value;
+function checkNewNewAnswer() {
+  var userInput = document.getElementById("checkNewNewAnswer").value;
 
   if (userInput === "Göteborg") {
     window.location.href = "correct.html";
@@ -27,8 +27,8 @@ function check2Answer() {
     window.location.href = "incorrect2.html";
   }
 }
-function check3Answer() {
-  var userInput = document.getElementById("check3Answer").value;
+function checkNewNewNewAnswer() {
+  var userInput = document.getElementById("checkNewNewNewAnswer").value;
 
   if (userInput === "Göteborg") {
     window.location.href = "correct.html";
@@ -36,8 +36,8 @@ function check3Answer() {
     window.location.href = "incorrect3.html";
   }
 }
-function check4Answer() {
-  var userInput = document.getElementById("check4Answer").value;
+function checkNewNewNewNewAnswer() {
+  var userInput = document.getElementById("checkNewNewNewNewAnswer").value;
 
   if (userInput === "Göteborg") {
     window.location.href = "correct.html";
